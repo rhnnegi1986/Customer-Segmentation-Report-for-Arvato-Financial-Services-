@@ -1,4 +1,4 @@
-                                                    Project Title
+                                                                        Project Title
 
 Customer Segmentation Report for Arvato Financial Solutions
 
@@ -116,7 +116,7 @@ This project undertook Unsupervised Machine Learning and Supervised Machine Lear
 
 
 
-                                               Final Analysis
+                                                               Final Analysis
 
 The project was able to predict the list of Features that have the potential of becoming the prospective customers of Arvato Financials Services. There are number of takeaways that can be derived from the above output window. From the analysis we have conducted we can predict that there are 652 individuals in the maiout-test data which can be made Arvato Financials Services prospective customers.From the output window as above there are certain class with those indiviual population which are more likely to become Arvato Financials Services customers from others. 
 
@@ -132,6 +132,9 @@ The final analysis was able to identify and predict Germany's general population
 8. TOTAL - Individuals with 100% Online-transactions within the last 12 months are extreamly likely to become Arvato Financials Services customers.
 9. DIETARY SUPPLEMENTS - Our Analysis was able to predict that individuals who have a transactional activity in DIETARY SUPPLEMENTS for 24 months or higher are likely to become Arvato Financials Services customer as well.
 10. ALL OTHER CATEGORIES - Finally our analysis also predicted that individuals whose transational activity is extreamly high in All Other product Categories are very likely to become customers of Arvato Financials Services as well.   
+
+
+Medium Blog for this project can be found at : https://medium.com/@rhnnegi/customer-segmentation-report-for-arvato-financial-services-2dcc7c973c2b
 
 
 
