@@ -1,6 +1,5 @@
-                                                                        Project Title
-
-Customer Segmentation Report for Arvato Financial Solutions
+                                                                     
+                                                   Customer Segmentation Report for Arvato Financial Solutions
 
 
 
